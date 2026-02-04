@@ -17,19 +17,19 @@
     <string name="about_copyright">Copyright © 2025 Urik Development</string>
     <string name="about_license">License: GNU GPL v3.0</string>
     <string name="about_source_code">Source Code</string>
-    <string name="about_release_notes">Release Notes</string>
-    <string name="about_report_bug">Reporter un Bug</string>
+    <string name="about_release_notes">Notes de version</string>
+    <string name="about_report_bug">Reporter un bug</string>
     <string name="about_privacy_policy">Politique de confidentialité</string>
-    <string name="about_support">Supporter le Developement</string>
+    <string name="about_support">Supporter le développement</string>
     <string name="autocorrect_settings_title">Paramètres d\'auto-correction</string>
     <string name="autocorrect_settings_description">Orthographe et suggestions</string>
     <string name="language_settings_title">Paramètres linguistiques</string>
-    <string name="language_settings_description">Choisissez les langues de votre clavier</string>
-    <string name="select_active_language">Sélectionner la langue active</string>
+    <string name="language_settings_description">Choix des langues de votre clavier</string>
+    <string name="select_active_language">Choix de la langue active</string>
     <string name="typing_settings_title">Paramètres relatifs à la saisie</string>
     <string name="typing_settings_description">Ponctuation, retour haptique, etc.</string>
     <string name="layout_settings_title">Disposition &amp; Entrée</string>
-    <string name="layout_settings_description">Ligne numérique, taille de la barre d\'espace</string>
+    <string name="layout_settings_description">Ligne de chiffres, taille de la barre d\'espace</string>
     <string name="appearance_settings_title">Apparence</string>
     <string name="appearance_settings_description">Thème, taille</string>
     <string name="privacy_settings_title">Confidentialité &amp; Données</string>
@@ -37,9 +37,9 @@
     <string name="licenses_title">Licenses Open Source</string>
     <string name="licenses_description">Afficher les licences des bibliothèques tierces</string>
     <string name="dictionary_attribution_title">Données du dictionnaire</string>
-    <string name="theme_picker_title">Thème du Clavier</string>
-    <string name="dictionary_attribution_summary">Licence et attribution FrequencyWords</string>
-    <string name="test_field_hint">Modifications des tests</string>
+    <string name="theme_picker_title">Thème du clavier</string>
+    <string name="dictionary_attribution_summary">Licence et attribution</string>
+    <string name="test_field_hint">Tester les modifications</string>
 
     <!-- Settings Enums -->
     <!-- Key Size -->
@@ -68,18 +68,18 @@
 
     <!-- Appearance Settings -->
     <string name="appearance_settings_theme">Thème</string>
-    <string name="appearance_settings_key_size">Taille des Touches</string>
-    <string name="appearance_settings_key_label_size">Key Label Size</string>
+    <string name="appearance_settings_key_size">Taille des touches</string>
+    <string name="appearance_settings_key_label_size">Taille des lettres</string>
 
     <!-- Auto-Correct Settings -->
-    <string name="autocorrect_settings_spell_check">Vérification orthographique</string>
-    <string name="autocorrect_settings_spell_check_on">Vérification orthographique activée</string>
-    <string name="autocorrect_settings_spell_check_off">Vérification orthographique désactivée</string>
+    <string name="autocorrect_settings_spell_check">Vérification de l'orthographe</string>
+    <string name="autocorrect_settings_spell_check_on">Vérification de l'orthographe activée</string>
+    <string name="autocorrect_settings_spell_check_off">Vérification de l'orthographe désactivée</string>
     <string name="autocorrect_settings_show_suggestions">Afficher les suggestions</string>
     <string name="autocorrect_settings_suggestions_on">Suggestions affichées</string>
     <string name="autocorrect_settings_suggestions_off">Suggestions masquées</string>
     <string name="autocorrect_settings_suggestion_count">Nombre de suggestions</string>
-    <string name="autocorrect_settings_learn_new_words">Apprendre de nouveaux mots</string>
+    <string name="autocorrect_settings_learn_new_words">Apprentissage de nouveaux mots</string>
     <string name="autocorrect_settings_learn_new_words_on">Apprentissage activé</string>
     <string name="autocorrect_settings_learn_new_words_off">Apprentissage désactivé</string>
 
@@ -89,48 +89,48 @@
 
     <!-- Sound & Feedback Settings -->
     <string name="feedback_settings_haptic_feedback">Retour haptique</string>
-    <string name="feedback_settings_haptic_on">Haptique activé</string>
-    <string name="feedback_settings_haptic_off">Haptique désactivé</string>
-    <string name="feedback_settings_vibration_strength">Puissance des Vibrations</string>
+    <string name="feedback_settings_haptic_on">Retour haptique activé</string>
+    <string name="feedback_settings_haptic_off">etour haptique désactivé</string>
+    <string name="feedback_settings_vibration_strength">Intensité des vibrations</string>
 
     <!-- Typing Behavior Settings -->
     <string name="typing_settings_double_space_period">Double espace après le point</string>
-    <string name="typing_settings_double_space_on">Insérer des doubles espaces après les points.</string>
+    <string name="typing_settings_double_space_on">Insérer des doubles espaces après les points</string>
     <string name="typing_settings_double_space_off">Insérer un double espace</string>
-    <string name="typing_settings_auto_capitalization">Capitalisation automatique</string>
-    <string name="typing_settings_auto_capitalization_on">Mettre une majuscule au début de la phrase</string>
-    <string name="typing_settings_auto_capitalization_off">Pas de capitalisation automatique</string>
-    <string name="typing_settings_swipe_enabled">Saisie Gestuelle</string>
-    <string name="typing_settings_swipe_on">Saisie Gestuelle activée</string>
-    <string name="typing_settings_swipe_off">Saisie Gestuelle désactivée</string>
+    <string name="typing_settings_auto_capitalization">Mise en majuscule automatique</string>
+    <string name="typing_settings_auto_capitalization_on">Mettre une majuscule en début de phrase</string>
+    <string name="typing_settings_auto_capitalization_off">Pas de mise en majuscule automatique</string>
+    <string name="typing_settings_swipe_enabled">Saisie par balayage</string>
+    <string name="typing_settings_swipe_on">Balayage activé</string>
+    <string name="typing_settings_swipe_off">Balayage désactivé</string>
     <string name="typing_settings_spacebar_cursor">Contrôle du curseur avec la barre d\'espace</string>
-    <string name="typing_settings_spacebar_cursor_on">Faites glisser la barre d\'espace pour déplacer le curseur.</string>
+    <string name="typing_settings_spacebar_cursor_on">Balayage de la barre d\'espace pour déplacer le curseur.</string>
     <string name="typing_settings_spacebar_cursor_off">Contrôle du curseur à l\'aide de la barre d\'espace désactivé</string>
-    <string name="typing_settings_cursor_speed">Vitesse du Curseur</string>
+    <string name="typing_settings_cursor_speed">Vitesse du curseur</string>
     <string name="typing_settings_backspace_swipe">Suppression par balayage vers l\'arrière</string>
-    <string name="typing_settings_backspace_swipe_on">Balayez vers la gauche sur la touche retour arrière pour supprimer un mot.</string>
-    <string name="typing_settings_backspace_swipe_off">Suppression par balayage de la touche Retour arrière désactivée</string>
-    <string name="typing_settings_long_press_punctuation">Long Press Punctuation</string>
+    <string name="typing_settings_backspace_swipe_on">Balayage vers la gauche sur la touche retour arrière pour supprimer un mot</string>
+    <string name="typing_settings_backspace_swipe_off">Suppression par balayage de la touche retour arrière désactivée</string>
+    <string name="typing_settings_long_press_punctuation">Ponctuation suite à un appui long</string>
     <string name="long_press_punctuation_off">Désactivé</string>
     <string name="long_press_punctuation_spacebar">Barre d\'espace</string>
-    <string name="long_press_punctuation_period">Period Key</string>
-    <string name="typing_settings_long_press_duration">Durée de la pression longue</string>
+    <string name="long_press_punctuation_period">Touche point</string>
+    <string name="typing_settings_long_press_duration">Durée de l'appui long</string>
 
     <!-- Layout & Input Settings -->
     <string name="layout_settings_alternative_layout">Disposition du clavier</string>
     <string name="layout_settings_adaptive_modes_enabled">Modes adaptatifs du clavier</string>
-    <string name="layout_settings_adaptive_modes_on">S\'adapte automatiquement au type d\'appareil et à sa position (tablettes, appareils pliables)</string>
-    <string name="layout_settings_adaptive_modes_off">Utilisez toujours la mise en page standard pleine largeur.</string>
+    <string name="layout_settings_adaptive_modes_on">Adaptation automatique au type d\'appareil et à sa position (tablettes, appareils pliables)</string>
+    <string name="layout_settings_adaptive_modes_off">Utilisation de la mise en page standard pleine largeur.</string>
     <string name="layout_settings_one_handed_mode_enabled">Mode à une main</string>
     <string name="layout_settings_one_handed_mode_on">Activée</string>
     <string name="layout_settings_one_handed_mode_off">Clavier standard pleine largeur</string>
     <string name="one_handed_mode_left">Positionner le clavier à gauche</string>
     <string name="one_handed_mode_right">Positionner le clavier à droite</string>
     <string name="one_handed_mode_full">Revenir au clavier pleine largeur</string>
-    <string name="layout_settings_show_number_row">Afficher la ligne de numéros</string>
-    <string name="layout_settings_number_row_on">Ligne de numéros affichée</string>
-    <string name="layout_settings_number_row_off">Ligne de numéros masquée</string>
-    <string name="layout_settings_show_language_switch_key">Afficher la touche de changement de langue</string>
+    <string name="layout_settings_show_number_row">Afficher la ligne de chiffres</string>
+    <string name="layout_settings_number_row_on">Ligne de chiffres affichée</string>
+    <string name="layout_settings_number_row_off">Ligne de chiffres masquée</string>
+    <string name="layout_settings_show_language_switch_key">Afficher la touche de bascule de langue</string>
     <string name="layout_settings_language_switch_key_on">Activée</string>
     <string name="layout_settings_language_switch_key_off">Désactivée</string>
     <string name="layout_settings_space_bar_size">Taille de la barre d\'espace</string>
@@ -141,19 +141,19 @@
     <string name="alternative_layout_dvorak">Dvorak</string>
     <string name="alternative_layout_colemak">Colemak</string>
     <string name="alternative_layout_workman">Workman</string>
-    <string name="layout_settings_customize_keys">Personnaliser les touches</string>
+    <string name="layout_settings_customize_keys">Personnalisation des touches</string>
     <string name="layout_settings_customize_keys_summary">Attribuer un caractère personnalisé à un appui long</string>
 
     <!-- Layout Mapper -->
     <string name="layout_mapper_title">Personnaliser les touches</string>
-    <string name="layout_mapper_instructions">Appuyez sur une touche pour attribuer un caractère personnalisé. Appuyez longuement sur cette touche du clavier pour insérer votre caractère.</string>
+    <string name="layout_mapper_instructions">Appuyer sur une touche pour attribuer un caractère personnalisé. Appuyez longuement sur cette touche du clavier pour insérer votre caractère</string>
     <string name="layout_mapper_edit_key">Clé d\'édition : %1$s</string>
     <string name="layout_mapper_symbol_hint">Caractère personnalisé</string>
     <string name="layout_mapper_save">Enregistrer</string>
     <string name="layout_mapper_remove">Supprimer</string>
     <string name="layout_mapper_reset_all">Tout réinitialiser</string>
     <string name="layout_mapper_reset_title">Réinitialiser tous les mappages ?</string>
-    <string name="layout_mapper_reset_message">Cela supprimera tous les raccourcis clavier personnalisés. Cette action ne peut pas être annulée.</string>
+    <string name="layout_mapper_reset_message">Cela supprimera tous les raccourcis clavier personnalisés. Cette action ne peut pas être annulée</string>
     <string name="layout_mapper_reset_confirm">Réinitialiser</string>
     <string name="layout_mapper_saved">Mappage Sauvegardé</string>
     <string name="layout_mapper_removed">Mappage Supprimé</string>
@@ -168,7 +168,7 @@
     <string name="privacy_settings_clipboard_history_off">Historique du presse-papiers désactivé</string>
     <string name="privacy_settings_clear_learned_words">Mots appris effacés</string>
     <string name="privacy_settings_clear_learned_words_summary">Supprimer tout le vocabulaire appris</string>
-    <string name="privacy_settings_clear_learned_words_confirm">Effacer tous les mots appris ? Cette action ne peut être annulée.</string>
+    <string name="privacy_settings_clear_learned_words_confirm">Effacer tous les mots appris ? Cette action ne peut être annulée</string>
     <string name="privacy_settings_reset_to_defaults">Réinitialiser les paramètres par défaut</string>
     <string name="privacy_settings_reset_to_defaults_confirm">Réinitialiser tous les paramètres par défaut ?</string>
     <string name="privacy_settings_export_error_log">Exporter le journal des erreurs</string>
@@ -193,14 +193,14 @@
     <string name="error_update_haptic_feedback">Échec de la mise à jour du retour haptique</string>
     <string name="error_update_vibration_strength">Échec de la mise à jour de l\'intensité des vibrations</string>
     <string name="error_update_double_space_period">Échec de la mise à jour de la période à double espacement</string>
-    <string name="error_update_auto_capitalization">Échec de la mise à jour de la capitalisation automatique</string>
-    <string name="error_update_swipe">Échec de la mise à jour de la saisie gestuelle</string>
+    <string name="error_update_auto_capitalization">Échec de la mise à jour de la mise en majuscule automatique</string>
+    <string name="error_update_swipe">Échec de la mise à jour de la saisie par balayage</string>
     <string name="error_update_spacebar_cursor">Échec de la mise à jour du contrôle du curseur à l\'aide de la barre d\'espace</string>
     <string name="error_update_cursor_speed">Échec de la mise à jour de la vitesse du curseur</string>
     <string name="error_update_backspace_swipe">Échec de la mise à jour de la suppression par balayage de la touche retour arrière</string>
     <string name="error_update_long_press_punctuation">Échec de la mise à jour de la ponctuation par appui long</string>
-    <string name="error_update_long_press_duration">Échec de la mise à jour de la durée de pression longue</string>
-    <string name="error_update_number_row">Échec de la mise à jour de la ligne numérique</string>
+    <string name="error_update_long_press_duration">Échec de la mise à jour de la durée de l'appui long</string>
+    <string name="error_update_number_row">Échec de la mise à jour de la ligne de chiffres</string>
     <string name="error_update_space_bar_size">Échec de la mise à jour de la taille de la barre d\'espace</string>
     <string name="error_update_alternative_layout">Échec de la mise à jour de la disposition du clavier</string>
     <string name="error_clear_learned_words">Échec de la suppression des mots appris</string>
@@ -226,14 +226,14 @@
     <string name="key_character_description">Type %1$s</string>
 
     <string name="shift_key_description">Touche Maj, appuyez pour mettre la lettre suivante en majuscule</string>
-    <string name="shift_active_description">Shift est actif, appuyez pour le désactiver.</string>
+    <string name="shift_active_description">Touche Maj activée, appuyez pour le désactiver.</string>
     <string name="caps_lock_description">Verrouillage des majuscules</string>
     <string name="caps_lock_on_description">Le verrouillage des majuscules est activé, appuyez pour le désactiver.</string>
     <string name="backspace_key_description">Supprimer le caractère précédent</string>
     <string name="space_key_description">Barre espace</string>
     <string name="letters_mode_description">Passer au clavier alphabétique</string>
     <string name="numbers_mode_description">Passer au clavier numérique</string>
-    <string name="symbols_mode_description">Passer au clavier symbolique</string>
+    <string name="symbols_mode_description">Passer au clavier des symboles</string>
     <string name="language_switch_description">Changer la langue du clavier</string>
     <string name="ime_prediction_description">Prédiction: %1$s</string>
 
@@ -265,20 +265,20 @@
     <string name="remove_confirm">Supprimer</string>
 
     <!-- Tips -->
-    <string name="tip_1_title">Apprendre des mots</string>
-    <string name="tip_1_description">Appuyez sur la barre d\'espace après une faute de frappe mise en surbrillance pour ajouter le mot à votre dictionnaire.</string>
+    <string name="tip_1_title">Apprentissage des mots</string>
+    <string name="tip_1_description">Appuyer sur la barre d\'espace après une faute de frappe mise en surbrillance pour ajouter le mot à votre dictionnaire.</string>
 
     <string name="tip_2_title">Menu rapide de ponctuation</string>
-    <string name="tip_2_description">Appuyez longuement sur la barre d\'espace pour ouvrir un menu rapide de ponctuation.</string>
+    <string name="tip_2_description">Appuyer longuement sur la barre d\'espace pour ouvrir un menu rapide de ponctuation.</string>
 
     <string name="tip_3_title">Variations de caractères</string>
-    <string name="tip_3_description">Appuyez longuement sur un caractère pour sélectionner une variante de celui-ci.</string>
+    <string name="tip_3_description">Appuyer longuement sur un caractère pour sélectionner une variante de celui-ci.</string>
 
     <string name="tip_4_title">Supprimer des mots</string>
-    <string name="tip_4_description">Appuyez longuement sur une suggestion pour la supprimer de votre dictionnaire.</string>
+    <string name="tip_4_description">Appuyer longuement sur une suggestion pour la supprimer de votre dictionnaire.</string>
 
     <string name="tip_5_title">Gestionnaire du presse-papiers</string>
-    <string name="tip_5_description">Appuyez longuement sur la touche symbole pour ouvrir le gestionnaire du presse-papiers.</string>
+    <string name="tip_5_description">Appuyer longuement sur la touche symbole pour ouvrir le gestionnaire du presse-papiers.</string>
 
     <!-- Clipboard Panel -->
     <string name="clipboard_panel_title">Presse-Papier</string>
